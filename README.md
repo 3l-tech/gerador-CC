@@ -1,2 +1,4 @@
 # gerador-CC
-Gera cartões de crédito 
+Gerador de cartões de crédito 
+
+TERMUX
